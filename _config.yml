@@ -1,8 +1,8 @@
 # Configuration GitHub Pages
 title: "Centre de Soins Esthétiques - Tarifs"
 description: "Découvrez nos packs de soins esthétiques et services d'épilation laser à Alger. Tarifs compétitifs et prestations de qualité professionnelle."
-url: "https://[votre-username].github.io"
-baseurl: "/[nom-repo]"
+url: "https://mednordz.github.io"
+baseurl: "/centre-esthetique-tarifs"
 
 # SEO
 author: "Centre de Soins Esthétiques"
@@ -42,7 +42,7 @@ defaults:
 social:
   name: "Centre de Soins Esthétiques"
   links:
-    - "https://github.com/[votre-username]/[nom-repo]"
+    - "https://github.com/mednordz/centre-esthetique-tarifs"
 
 # Analytics (optionnel)
 # google_analytics: "G-XXXXXXXXXX"
