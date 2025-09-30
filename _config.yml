@@ -1,0 +1,52 @@
+# Configuration GitHub Pages
+title: "Centre de Soins Esthétiques - Tarifs"
+description: "Découvrez nos packs de soins esthétiques et services d'épilation laser à Alger. Tarifs compétitifs et prestations de qualité professionnelle."
+url: "https://[votre-username].github.io"
+baseurl: "/[nom-repo]"
+
+# SEO
+author: "Centre de Soins Esthétiques"
+lang: fr
+timezone: Africa/Algiers
+
+# GitHub Pages
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# Plugins (automatiques sur GitHub Pages)
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+
+# Exclusions
+exclude:
+  - README.md
+  - .gitignore
+  - .github/
+
+# Collections et pages
+include:
+  - _pages
+  
+# Configuration SEO
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+      author: "Centre de Soins Esthétiques"
+      
+# Social
+social:
+  name: "Centre de Soins Esthétiques"
+  links:
+    - "https://github.com/[votre-username]/[nom-repo]"
+
+# Analytics (optionnel)
+# google_analytics: "G-XXXXXXXXXX"
+
+# PWA
+webmaster_verifications:
+  google: "[VOTRE_CODE_GOOGLE]"

@@ -1,0 +1,26 @@
+{
+  "name": "Tarifs Soins & Épilation - Centre Esthétique Alger",
+  "short_name": "Tarifs Épilation",
+  "description": "Découvrez nos packs de soins esthétiques et services d'épilation laser à Alger",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fafaf9",
+  "theme_color": "#ec4899",
+  "orientation": "portrait-primary",
+  "categories": ["beauty", "health", "lifestyle"],
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiIgdmlld0JveD0iMCAwIDE5MiAxOTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIxOTIiIGhlaWdodD0iMTkyIiByeD0iMjQiIGZpbGw9IiNlYzQ4OTkiLz4KPHN2ZyB4PSI0OCIgeT0iNDgiIHdpZHRoPSI5NiIgaGVpZ2h0PSI5NiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8cGF0aCBkPSJtMTEuNjQ1IDIwLjkxLS4wMDctLjAwMy0uMDIyLS4wMTJhMTUuMjQ3IDE1LjI0NyAwIDAgMS0uMzgzLS4yMTggMjUuMTggMjUuMTggMCAwIDEtNC4yNDQtMy4xN0M0LjY4OCAxNS4zNiAyLjI1IDEyLjE3NCAyLjI1IDguMjVhNS43NSA1Ljc1IDAgMCAxIDExLjVWMjBhMS4xMDcgMS4xMDcgMCAwIDAtLjEwNS0uMDg5WiIgZmlsbD0iIzNmM2Y0NiIvPgo8L3N2Zz4KPC9zdmc+",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgdmlld0JveD0iMCAwIDUxMiA1MTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiByeD0iNjQiIGZpbGw9IiNlYzQ4OTkiLz4KPHN2ZyB4PSIxMjgiIHk9IjEyOCIgd2lkdGg9IjI1NiIgaGVpZ2h0PSIyNTYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0ibTExLjY0NSAyMC45MS0uMDA3LS4wMDMtLjAyMi0uMDEyYTE1LjI0NyAxNS4yNDcgMCAwIDEtLjM4My0uMjE4IDI1LjE4IDI1LjE4IDAgMCAxLTQuMjQ0LTMuMTdDNC42ODggMTUuMzYgMi4yNSAxMi4xNzQgMi4yNSA4LjI1YTUuNzUgNS43NSAwIDAgMSAxMS41VjIwYTEuMTA3IDEuMTA3IDAgMCAwLS4xMDUtLjA4OVoiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo8L3N2Zz4=",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
